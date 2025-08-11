@@ -2,6 +2,7 @@
 
 ## Learning Outcomes
 
+- Privacy to avoid pushing passwords to GitHub
 - Parsing JSON data
 - Visualizing data
 - Sorting, filtering, and joining Pandas dataframes
