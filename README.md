@@ -10,7 +10,7 @@
 
 ## Overview
 
-### Alpha Vantage API
+### News API
 
 This assignment will use the News API (https://newsapi.org/docs), which provides users with data about news from around the internet.
 
